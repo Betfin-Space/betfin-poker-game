@@ -1,4 +1,5 @@
 # 🎰 Staking Game Poker 🎮
+![](client/src/assets/game/loading-background.jpg)
 Betfin Poker is a blockchain-powered gaming platform that brings competitive poker into the Web3 ecosystem. 
 Players can join poker tables, compete for rewards, and engage with a decentralized staking economy. 
 Built on EVM-compatible chains, Betfin Poker combines skill-based gameplay, smart contract security, and community-driven incentives.
